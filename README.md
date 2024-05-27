@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Edijane1989/Edijane1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Edijane
 
-Here are some ideas to get you started:
+- Estou estudando na alura
+- Estou desenvolvendo  na linguagem Java script 
+- Utilizo esse espaco para organizacao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Você entrar em contato comigo 📬
+
+ edijanebrito@prof.educacao.sp.gov.br
+
+
+![](https://media.tenor.com/CzaHhPyIR8gAAAAM/rosy00.gif)
